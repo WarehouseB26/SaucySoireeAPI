@@ -224,11 +224,12 @@ const config = {
     "db"
   ],
   "activeProvider": "postgresql",
+  "postinstall": false,
   "inlineDatasources": {
     "db": {
       "url": {
         "fromEnvVar": "DATABASE_URL",
-        "value": "postgresql://postgres:@TerryB9003518@185.220.204.117:5432/saucysoireeapi"
+        "value": null
       }
     }
   },
