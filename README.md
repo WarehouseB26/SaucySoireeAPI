@@ -20,3 +20,9 @@ An E-Commerce API For Pizza Shop
 
 # Orders
 1008/api/orders -- "Get" all Orders including details
+
+# Stores
+1008/api/stores -- "Get" all stores including details
+1008/api/stores -- "POST" Add New Stores including details
+1008/api/stores/:storeid -- "PUT" Update Stores details
+1008/api/stores/:storeid -- "Delete" Remove Stores details
