@@ -5,6 +5,10 @@ An E-Commerce API For Pizza Shop
 
 # Pizzas
 1008/api/pizzas -- "Get" all Pizzas including details
+1008/api/pizzas -- "POST" Add New Pizza including details
+1008/api/pizzas/:pizzaid -- "PUT" Update Pizza details
+1008/api/pizzas/:pizzaid -- "Delete" Remove Pizza details
+
 
 # Deserts
 1008/api/deserts -- "Get" all Deserts including details
