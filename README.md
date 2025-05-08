@@ -18,7 +18,9 @@ An E-Commerce API For Pizza Shop
 
 # Refreshments
 1008/api/refreshments -- "Get" all Refreshments including details
-
+1008/api/refreshments -- "POST" Add New Refreshment including details
+1008/api/refreshments/:refreshmentid -- "PUT" Update Refreshment details
+1008/api/refreshments/:refreshmentid -- "Delete" Remove Refreshment details
 
 # Orders
 1008/api/orders -- "Get" all Orders including details
