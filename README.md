@@ -12,7 +12,9 @@ An E-Commerce API For Pizza Shop
 
 # Deserts
 1008/api/deserts -- "Get" all Deserts including details
-
+1008/api/deserts -- "POST" Add New Desert including details
+1008/api/deserts/:desertid -- "PUT" Update Desert details
+1008/api/deserts/:desertid -- "Delete" Remove Desert details
 
 # Refreshments
 1008/api/refreshments -- "Get" all Refreshments including details
